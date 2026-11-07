@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS_ConsoleDPKRN/CS_ConsoleDprkn.csproj" Id="1b793812-2ead-4eda-98c6-adceb514713b" />
+  <Project Path="Fortran_ConsoleDPRKN/Fortran_ConsoleDPRKN.vfproj" Type="6989167d-11e4-40fe-8c1a-2192a86a7e90" Id="c16e7d6d-1f21-6c35-7c7b-5694d2de8980">
+    <Platform Solution="*|Any CPU" Project="x64" />
+    <Platform Solution="*|x86" Project="Win32" />
+  </Project>
+</Solution>
